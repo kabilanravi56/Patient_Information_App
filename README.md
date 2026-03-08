@@ -1,5 +1,5 @@
 Patient Information App
-REGISTER NO:732923ITR047
+REGISTER NO:732923ITR046
 Problem Statement
 In hospitals and clinics, maintaining patient information digitally helps reduce manual errors and improves communication between patients and doctors.
 The problem is to design and develop an Android application named “Patient Information App” using Android Studio.
@@ -29,7 +29,5 @@ Explicit Intent-	Move to next activity
 Implicit Intent-	Call, SMS, Email
 AlertDialog	-Confirmation before action
 AndroidManifest.xml	Permissions
-## output screenshot
-![Screenshot 1](1.jpeg)
-![Screenshot 2](11.jpeg)
+## Output Screenshot
 
